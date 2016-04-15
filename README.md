@@ -30,8 +30,8 @@
 	- [qiniu]
 	- ak     = # 填入你的AK
 	- sk     = # 填入你的SK
-	- url    = # 填入你的七牛空间名称
-	- bucket = # 填入你的域名地址
+	- url    = # 填入你的域名地址
+	- bucket = # 填入你的七牛空间名称
 	- 注意！！！注释一定都要删掉， 写值时不要加引号。ak,sk不是用户名和密码，是在账户管理中的密钥管理那里找到。填完是这样婶儿的：
 ![qiniuconfig](http://7xry4c.com1.z0.glb.clouddn.com//2016_04_15_qiniuconfig.png "qiniuconfig")
 
